@@ -15,3 +15,7 @@ This is a admin dashboard UI built with Next.js. It is only the front-end interf
 - React Hook Form
 - Zod
 - Next Themes
+
+### Deployement
+
+[Live Demo](https://admin-dashboard-ui-plum.vercel.app/)
